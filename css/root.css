@@ -61,13 +61,14 @@ body, html {
 }
 .company_footer {
 	position: absolute;
-	bottom: 10px;
-	right: 10px;	
+	bottom: 0.1em;
+	left: 1em;	
 	/*background: rgba(0, 0, 0, 0.10);*/
 	padding: 1em;
 }
 .company_footer p {
-	text-align: right;
-	line-height: 0.2em;
+	text-align: left;
+	line-height: 0.4em;
 	text-shadow: 1px 1px #000000;
+	font-size: 1.1em;
 }
