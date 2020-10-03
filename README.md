@@ -6,5 +6,5 @@ Web Design
 
 ### TODO
 
- - Make the image gallery a separate library
+ - [x] Make the image gallery a separate library
 

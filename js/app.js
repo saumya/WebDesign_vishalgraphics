@@ -54,7 +54,8 @@ const SaumyaGallery = function(config){
         }
     }
 }
-//
+// Remove the above code and load the library .js file
+// check and run
 // Application Entry
 $( function(){
     //console.log('ready!')
