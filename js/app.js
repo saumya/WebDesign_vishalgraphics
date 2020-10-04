@@ -1,5 +1,6 @@
 //console.log('application init');
 //
+/*
 // Gallery Functionality Object
 const SaumyaGallery = function(config){
     
@@ -56,6 +57,8 @@ const SaumyaGallery = function(config){
 }
 // Remove the above code and load the library .js file
 // check and run
+*/
+
 // Application Entry
 $( function(){
     //console.log('ready!')
