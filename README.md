@@ -8,4 +8,4 @@ Web Design
 ### TODO
 
  - [x] Make the image gallery a separate library
-
+ - [] Check for the Gallery Transition options
