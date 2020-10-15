@@ -9,4 +9,4 @@ Web Design
 
  - [x] Make the image gallery a separate library
  - [] Check for the Gallery Transition options
- - [] Social Media Links
+ - [] Social Media Links. Check and Add
