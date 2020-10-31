@@ -4,6 +4,11 @@
 $( function(){
     //console.log('ready!')
 
+    $(".navbar-burger").click(function() {
+        $(".navbar-burger").toggleClass("is-active");
+        $(".navbar-menu").toggleClass("is-active");
+    })
+
     // Gallery Configuration
     const galleryImagePaths = [ 'img/gallery/gallery_1.jpg', 
                                 'img/gallery/gallery_4.jpg',

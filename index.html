@@ -16,41 +16,44 @@
 </head>
 <body class="has-navbar-fixed-top"  id="home">
     
-    <nav class="navbar is-fixed-top is-dark">
+    <nav class="navbar is-fixed-top">
         <div class="navbar-brand">
             <a class="navbar-item" href="http://vishalgraphics.co.in">
               <img src="img/logo/logo_28x28.png" alt="Vishal Graphics" height="28">
             </a>
+            <a role="button" class="navbar-burger">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
         </div>
+
         <div class="navbar-menu">
             <div class="navbar-start">
                 <a class="navbar-item" href="#home">Home</a>
             </div>
             <div class="navbar-end">
-                <div class="navbar-item">
-                    <div class="field is-grouped">
-                        <p class="control">
-                            <a class="button is-dark" href="#gallery">
-                                <span>Gallery</span>
-                            </a>
-                        </p>
-                        <p class="control">
-                            <a class="button is-dark" href="#contact">
-                                <span>Contact</span>
-                            </a>
-                        </p>
-                    </div>
-                </div>
+                <a class="navbar-item" href="#gallery"> <span>Gallery</span> </a>
+                <a class="navbar-item" href="#contact"> <span>Contact</span> </a>
             </div>
         </div>    
     </nav>
     
     <section class="hero is-dark is-fullheight-with-navbar">
         <div class="hero-body bgImage">
-
-            <div class="container">
-                <h1 class="title"> Vishal Graphics </h1>
-                <h2 class="subtitle"> All things printing. </h2>
+           
+            <div class="container is-centered">
+                <div class="columns is-mobile is-centered">
+                  <div class="column is-full has-text-centered">
+                    <h1 class="title"> Vishal Graphics </h1>
+                    <h2 class="subtitle"> All things printing. </h2>
+                    <!--
+                    <p class="bd-notification is-primary">
+                      This is just a test to center the content. How far it goes in the middle. Let me see that.
+                    </p>
+                    -->
+                  </div>
+                </div>
             </div>
            
         </div>
