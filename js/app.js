@@ -4,6 +4,7 @@
 $( function(){
     //console.log('ready!')
 
+    // Menu Navigation | Show/Hide the Burger menu
     $(".navbar-burger").click(function() {
         $(".navbar-burger").toggleClass("is-active");
         $(".navbar-menu").toggleClass("is-active");
