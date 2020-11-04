@@ -31,4 +31,8 @@ $( function(){
     $('#btnPlay').on('click', function(){ gallery.play() })
     */
 
+    $('.g_icon').on('click', function(event){ 
+        $('#g_i_big')[0].src = event.target.src;
+    });
+
 })
