@@ -9,7 +9,7 @@ $( function(){
         $(".navbar-burger").toggleClass("is-active");
         $(".navbar-menu").toggleClass("is-active");
     })
-
+    /*
     // Gallery Configuration
     const galleryImagePaths = [ 'img/gallery/gallery_1.jpg', 
                                 'img/gallery/gallery_4.jpg',
@@ -29,5 +29,6 @@ $( function(){
     
     $('#btnPause').on('click', function(){ gallery.pause() })
     $('#btnPlay').on('click', function(){ gallery.play() })
+    */
 
 })
