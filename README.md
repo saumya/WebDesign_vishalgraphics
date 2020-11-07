@@ -1,4 +1,4 @@
 Web Design
 =============
 
-done the first version.
+ [x] Released version 1
