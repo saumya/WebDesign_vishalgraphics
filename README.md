@@ -1,4 +1,4 @@
 Web Design
 =============
 
- [x] Released version 1
+ [x] - Released version 1
